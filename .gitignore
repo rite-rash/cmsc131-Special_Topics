@@ -1,0 +1,15 @@
+# Compiled files
+*.o
+*.obj
+*.exe
+
+# Build output
+build/*
+!build/.gitkeep
+
+bin/*
+!bin/.gitkeep
+
+# Editor files
+.vscode/
+.DS_Store
